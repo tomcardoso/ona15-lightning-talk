@@ -1,0 +1,14 @@
+{
+  "name": "ona-lightning-talk",
+  "version": "1.0.0",
+  "description": "Slides for ONA lightning talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Cardoso",
+  "license": "ISC",
+  "devDependencies": {
+    "reveal": "0.0.4"
+  }
+}
